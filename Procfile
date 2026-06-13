@@ -1,1 +1,1 @@
-worker: apt-get install -y ffmpeg && python bot.py
+worker: python bot.py
